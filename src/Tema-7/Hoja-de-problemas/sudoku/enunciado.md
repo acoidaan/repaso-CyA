@@ -1,2 +1,2 @@
-![imagen sudoku sin resolver]("../../imagenes/sudoku1.png")
+![imagen sudoku sin resolver]("../../../imagenes/sudoku1.png")
 
